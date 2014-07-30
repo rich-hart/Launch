@@ -1,0 +1,5 @@
+Note	use 'lables [tab]	text entry for entering text'
+Note	seperate folders by data type
+Note	create a python script in each folder for file parsing
+Question	How do I seemlessly relate to pieces of data while naturally trying to get my ideas onto the page?
+Note	Bibtex files are commented by being inbetween bibtex objects 

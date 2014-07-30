@@ -1,0 +1,5 @@
+Question	What is the current cost of space travel?
+Question	How do you define cost?
+Corporation2002	the 'price per pound to orbit' metric was developed to compare vehicles for their cost effectiveness, mostly in the comparison of vehicles in the design phase. Price per pound offers a simple way to normalize launch costs, permitting more meaningful comparisons among vehicles of different capabilities. This metric has gained wide acceptance, with almost every proposed new launch vehicle since the Space Shuttle using some type of price-per-pound target.
+Question	How do you define travel to space?
+Corporation2002	non-geosynchronous orbit (NGSO) - which includes low Earth orbit (LEO), medium Earth orbit, and highly elliptical orbits - and geosynchronous orbit (GSO) launches.
