@@ -5,9 +5,9 @@ import sqlite3 as lite
 
 title = "Questions"
 
-table = ["What is the current cost of space travel?",
+table = set( ["What is the current cost of space travel?",
          "How do you define cost?",
-         "How do you define travel to space?"]
+         "How do you define travel to space?"])
 #print (eval(Questions))
 G=nx.Graph()
 
